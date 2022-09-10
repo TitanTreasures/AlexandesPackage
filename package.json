@@ -1,0 +1,19 @@
+{
+  "name": "com.titantreasures.alexanderspersonalassetsandtools",
+  "version": "1.0.0",
+  "displayName": "AlexandersAssets",
+  "description": "This is Alexanders personal assets and tools package",
+  "unity": "2021.3",
+  "unityRelease": "6f1",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool"
+}
